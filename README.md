@@ -1,6 +1,6 @@
 # Awesome JSON Lists
 
-Welcome to the Awesome JSON Lists! This repository contains various lists in JSON format that you can use for different purposes.
+Welcome to the Awesome JSON Lists! This repository contains various lists in JSON format that you can use in your projects.
 
 ## Lists
 
