@@ -2,13 +2,15 @@
 
 Welcome to the Awesome JSON Lists! This repository contains various lists in JSON format that you can use in your projects.
 
-## Lists
+## About Lists
 
 All data are organized universally in the `lists` directory. Each data type has its own directory and includes corresponding JSON lists (if applicable) for different languages. 
 
-Language codes are added to the JSON files. You can find a seperate list that shows the long form of language codes here (lists/language_codes.json).
+Language codes are added to the JSON file names. You can find a seperate list that shows the long form of language codes here [Language Codes](lists/language_codes.json).
 
 Feel free to explore and use these lists in your projects.
+
+## Contents
 
 - [Countries](lists/countries): List of countries acknowledged by the United Nations.
 
