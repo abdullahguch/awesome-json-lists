@@ -13,6 +13,7 @@ Feel free to explore and use these lists in your projects.
 ## Contents
 
 - [Countries](lists/countries): List of countries acknowledged by the United Nations.
+- [Programming Languages](lists/programming-languages): List of programming languages.
 
 ## How to Use
 
