@@ -20,7 +20,7 @@ Feel free to explore and use these lists in your projects.
 1. Clone or download this repository.
 
 ```bash
-git clone https://github.com/abdullahguch/awesome-lists.git
+git clone https://github.com/abdullahguch/awesome-json-lists.git
 ```
 
 2. Explore the lists directory to find the JSON lists you need.
